@@ -1,0 +1,24 @@
+h1 {
+    font-weight: bold;
+    font-size: 50pt;
+    text-align: center;
+    color: rebeccapurple;
+     
+}
+
+p {
+    font-weight: bold;
+    text-align: center;
+    font-size: 15pt;
+    color: burlywood;
+}
+
+
+body {
+    font-weight: bold;
+    text-align: center;
+    font-size: 30pt;
+    color: red;
+    background-image: url("../images/background.png");
+
+}
